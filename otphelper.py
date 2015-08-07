@@ -71,3 +71,4 @@ if choice_encrypt:
 if choice_decrypt:
         print("DECRYPTED: "+otp.decrypt(message, key)+"\n")
 
+
